@@ -1,1 +1,3 @@
-# project-26-sushi
+Suchi is made up of small pieces of raw fish that are wrapped in rice and seaweed. The seaweed is called Nori, is collected with submerged bamboo nets. While some sushi is mass- produced using robots, but the best sushi is made out of hands. The sushi chef chops off small bits of fish and combines them with spices such as ginger root. Wasabi and Soye sause are commonly used for flavoring sushi rolls. Finally the roll is wrapped up with some nori or rice paper.
+
+this is how a sushi is made..
